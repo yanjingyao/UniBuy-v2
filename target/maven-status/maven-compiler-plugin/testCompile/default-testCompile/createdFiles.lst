@@ -1,0 +1,3 @@
+org\testspringboot\unibuy\UniBuyApplicationTests.class
+org\testspringboot\unibuy\controller\FavoriteControllerTest.class
+org\testspringboot\unibuy\service\FavoriteServicePropertyTest.class
